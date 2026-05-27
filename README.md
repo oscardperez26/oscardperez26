@@ -5,11 +5,11 @@
 <h1 align="center">Oscar Daniel Perez</h1>
 
 <h3 align="center">
-Ingeniero Electrónico · Desarrollador Full Stack · Backend Developer · Data Engineer
+Ingeniero Electrónico · Full Stack Developer · Backend Developer · Data Engineer
 </h3>
 
 <p align="center">
-Construyo aplicaciones web, APIs, integraciones empresariales y arquitecturas de datos con enfoque en rendimiento, seguridad, escalabilidad y valor real para negocio.
+Construyo aplicaciones web, APIs, integraciones empresariales y arquitecturas de datos con enfoque en seguridad, escalabilidad, rendimiento y valor real para negocio.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Construyo aplicaciones web, APIs, integraciones empresariales y arquitecturas de
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.youtube.com/@Danielunfit" target="_blank">
-    <img src="https://img.shields.io/badge/DanielUnfit-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/DanielUnfit-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DanielUnfit" />
   </a>
 </p>
 
@@ -32,31 +32,31 @@ Construyo aplicaciones web, APIs, integraciones empresariales y arquitecturas de
 
 ## ⟡ Perfil profesional
 
-Soy **Ingeniero Electrónico** y **Desarrollador Full Stack**, con experiencia construyendo soluciones que conectan desarrollo de software, bases de datos, automatización, integración de sistemas y arquitectura cloud.
+Soy **Ingeniero Electrónico** y **Desarrollador Full Stack**, con enfoque en **backend, frontend, datos, cloud e integración de sistemas**.
 
-Mi enfoque está en crear productos funcionales, mantenibles y listos para evolucionar: desde aplicaciones empresariales y APIs backend, hasta pipelines de datos, integraciones e infraestructura para entornos productivos.
+Mi trabajo se centra en construir soluciones reales: aplicaciones empresariales, APIs robustas, dashboards administrativos, automatizaciones, integraciones con sistemas externos, pipelines de datos y despliegues preparados para entornos productivos.
 
 Trabajo principalmente con **Node.js, NestJS, Angular, React, PostgreSQL, SQL Server, Prisma, AWS y Azure**.
 
 ---
 
-## ⚡ Lo que construyo
+## ⟠ Propuesta técnica
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Backend & APIs</h3>
+      <h3>Backend Engineering</h3>
       <p>
-        Diseño APIs REST, módulos backend, autenticación, autorización, validaciones de negocio, manejo de errores, servicios escalables e integraciones entre sistemas.
+        Diseño APIs REST, módulos backend, autenticación, autorización, validaciones de negocio, manejo centralizado de errores, servicios escalables e integraciones entre sistemas.
       </p>
       <p>
         <strong>Node.js · NestJS · Express · TypeScript · JWT · REST APIs</strong>
       </p>
     </td>
     <td width="50%">
-      <h3>Frontend & Experiencia de Usuario</h3>
+      <h3>Frontend Engineering</h3>
       <p>
-        Construyo interfaces web limpias, funcionales y conectadas a servicios reales, con flujos administrativos, dashboards, formularios y componentes reutilizables.
+        Construyo interfaces web funcionales, paneles administrativos, flujos de usuario, formularios, dashboards y componentes conectados a APIs reales.
       </p>
       <p>
         <strong>Angular · React · Vite · HTML · CSS · Bootstrap</strong>
@@ -67,16 +67,16 @@ Trabajo principalmente con **Node.js, NestJS, Angular, React, PostgreSQL, SQL Se
     <td width="50%">
       <h3>Data Engineering</h3>
       <p>
-        Diseño procesos de datos, automatizaciones, cargas, transformaciones y arquitecturas orientadas a análisis, reporting y toma de decisiones.
+        Diseño procesos de ingesta, transformación, automatización y consulta de datos para reporting, analítica y toma de decisiones.
       </p>
       <p>
         <strong>Python · PySpark · AWS Lambda · Step Functions · Athena · Glue · Iceberg</strong>
       </p>
     </td>
     <td width="50%">
-      <h3>Cloud, DevOps & Producción</h3>
+      <h3>Cloud & Production</h3>
       <p>
-        Trabajo con despliegues, variables de entorno, servidores, reverse proxy, seguridad, documentación operativa y soporte a entornos reales.
+        Trabajo con despliegues, variables de entorno, servidores, reverse proxy, seguridad, documentación operativa y soporte a entornos productivos.
       </p>
       <p>
         <strong>AWS · Azure · Docker · IIS · PM2 · GitHub Actions · Azure DevOps</strong>
@@ -87,108 +87,44 @@ Trabajo principalmente con **Node.js, NestJS, Angular, React, PostgreSQL, SQL Se
 
 ---
 
-## ⟁ Proyectos destacados
+## ⟁ Proyectos públicos destacados
 
 <table>
   <tr>
     <td width="50%">
-      <h3>OMS_PERMODA</h3>
+      <h3>GESTOR DE PEDIDOS</h3>
       <p>
         Sistema de gestión de órdenes con estructura modular, backend en NestJS y panel administrativo en React.
       </p>
       <p>
-        Incluye documentación de arquitectura, seguridad, contrato de API, ejecución local y estructura por aplicaciones.
+        Incluye estructura por aplicaciones, documentación técnica, seguridad, contrato de API y ejecución local.
       </p>
       <p>
         <strong>Stack:</strong> NestJS · React · TypeScript · APIs REST
       </p>
     </td>
-    <td width="50%">
-      <h3>Inventory App</h3>
-      <p>
-        Aplicación Full Stack para gestión de productos en inventario, con CRUD, validaciones, API REST y persistencia en PostgreSQL.
-      </p>
-      <p>
-        Proyecto enfocado en buenas prácticas con frontend Angular, backend NestJS y Prisma ORM.
-      </p>
-      <p>
-        <strong>Stack:</strong> Angular · NestJS · PostgreSQL · Prisma · TypeScript
-      </p>
-    </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>APIS-MOVIE</h3>
-      <p>
-        Proyecto orientado al consumo y exposición de datos relacionados con películas, trabajando conceptos de API, JavaScript y manejo de información externa.
-      </p>
-      <p>
-        <strong>Stack:</strong> JavaScript · APIs · REST
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Telemetría Claro</h3>
-      <p>
-        Demo enfocada en visualización y estructura de datos de telemetría, explorando formas de presentar información técnica de manera web.
-      </p>
-      <p>
-        <strong>Stack:</strong> HTML · CSS · Web
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Todo Angular</h3>
-      <p>
-        Aplicación de tareas desarrollada con Angular CLI, enfocada en componentes, estructura frontend y flujo básico de aplicación.
-      </p>
-      <p>
-        <strong>Stack:</strong> Angular · TypeScript · CSS
-      </p>
-    </td>
-    <td width="50%">
-      <h3>DanielUnfit</h3>
-      <p>
-        Marca personal orientada a fitness, disciplina, deporte y creación de contenido digital. Combina tecnología, comunicación visual y crecimiento personal.
-      </p>
-      <p>
-        <strong>Enfoque:</strong> YouTube · Branding · Contenido · Fitness
-      </p>
-    </td>
   </tr>
 </table>
 
----
-
 ## ⌁ Proyectos empresariales y arquitectura
 
-Además de mis repositorios públicos, he trabajado en proyectos y soluciones orientadas a escenarios reales de negocio:
+Además de mis repositorios públicos, he trabajado en proyectos y soluciones orientadas a escenarios reales de negocio.
 
 ### Capacity App
 
-Sistema empresarial con autenticación, roles, dashboards, reglas de negocio, integración con SQL Server y despliegue en servidor productivo.
+Sistema empresarial con autenticación,g roles, dashboards, reglas de negocio, integración con SQL Server y despliegue en servidor productivo.
 
 **Enfoque técnico:** React, Vite, Node.js, SQL Server, JWT, IIS, PM2, variables de entorno, CORS, seguridad y operación productiva.
 
 ### Devoluciones
 
-Plataforma para gestionar procesos de devolución, con flujo tipo wizard para clientes, panel administrativo, validaciones por producto/factura/causal y backend preparado para reglas de negocio.
+Plataforma para gestionar procesos de devolución, con flujo tipo wizard para clientes, panel administrativo, validaciones por producto, factura y causal, y backend preparado para reglas de negocio.
 
 **Enfoque técnico:** NestJS, React, Vite, Prisma, PostgreSQL, MariaDB, JWT, Redis, arquitectura modular y despliegue.
 
-### GeoRisk
-
-Proyecto orientado al monitoreo, reporte y análisis de riesgos geográficos, pensado para múltiples sucursales, ciudades, usuarios, mapas, seguridad por roles y evolución hacia inteligencia artificial.
-
-**Enfoque técnico:** arquitectura multi-sucursal, Supabase, PostgreSQL, RLS, mapas, seguridad, APIs y análisis geoespacial.
-
-### Progresión Lakehouse
-
-Arquitectura de datos tipo Lakehouse + Serving Layer para procesamiento batch, snapshots diarios, gobierno de datos y consultas de negocio.
-
-**Enfoque técnico:** AWS S3, Glue, Iceberg, Athena, Lambda, Step Functions, Aurora PostgreSQL, Redis y calidad de datos.
-
-### Integración OMS → Shopify
+### OMS → Shopify Integration
 
 Integración empresarial entre OMS y Shopify para sincronizar productos, variantes, precios, inventario, colecciones y órdenes pagadas.
 
@@ -267,22 +203,14 @@ Integración empresarial entre OMS y Shopify para sincronizar productos, variant
 </div>
 
 ---
-
 ## ◈ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscardperez26&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscardperez26&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscardperez26&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oscardperez26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscardperez26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="180" alt="Top languages" />
 </div>
 
 ---
-
 ## ⟡ Enfoque actual
 
 - Arquitectura backend con **NestJS, Node.js y TypeScript**
@@ -291,7 +219,7 @@ Integración empresarial entre OMS y Shopify para sincronizar productos, variant
 - Despliegues productivos con **IIS, PM2, variables de entorno y reverse proxy**
 - Arquitecturas cloud y datos con **AWS, Azure, Lambda, Step Functions, Athena e Iceberg**
 - Documentación técnica clara para proyectos, equipos y entornos productivos
-- Evolución de proyectos como **GeoRisk, Devoluciones, Capacity, OMS y DanielUnfit**
+- Evolución de proyectos como **Devoluciones, Capacity, OMS y DanielUnfit**
 
 ---
 
@@ -328,4 +256,4 @@ Integración empresarial entre OMS y Shopify para sincronizar productos, variant
 
 <p align="center">
   <strong>“Construyendo soluciones reales con código, datos y arquitectura.”</strong>
-</p>****
+</p>
