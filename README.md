@@ -87,26 +87,7 @@ Trabajo principalmente con **Node.js, NestJS, Angular, React, PostgreSQL, SQL Se
 
 ---
 
-## ⟁ Proyectos públicos destacados
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>GESTOR DE PEDIDOS</h3>
-      <p>
-        Sistema de gestión de órdenes con estructura modular, backend en NestJS y panel administrativo en React.
-      </p>
-      <p>
-        Incluye estructura por aplicaciones, documentación técnica, seguridad, contrato de API y ejecución local.
-      </p>
-      <p>
-        <strong>Stack:</strong> NestJS · React · TypeScript · APIs REST
-      </p>
-    </td>
-  </tr>
-  <tr>
-  </tr>
-</table>
 
 ## ⌁ Proyectos empresariales y arquitectura
 
